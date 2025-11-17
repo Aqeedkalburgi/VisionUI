@@ -244,4 +244,4 @@ This project is licensed under the MIT License.
 
 ---
 
-Built with ❤️ using modern web technologies. Enjoy building amazing applications! 🚀
+Built by Aqeed using modern web technologies. Enjoy building amazing applications! 🚀
